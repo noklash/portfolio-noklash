@@ -1,7 +1,12 @@
-.nav-bar{
-    display: flex;
-}
 
-.nav-ul{
-    display: flex;
+.nav-ul > li{
+    list-style-type: none;
+    
+    
+ #header{
+    margin-right: auto;
+ }   
+}
+.nav-ul > li > a{
+    text-decoration: none;
 }
