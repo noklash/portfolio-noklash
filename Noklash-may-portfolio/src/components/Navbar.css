@@ -1,12 +1,17 @@
-
+.nav-ul{
+    display:flex;
+    
+}
 .nav-ul > li{
     list-style-type: none;
-    
-    
- #header{
-    margin-right: auto;
- }   
+    padding: 5px;
+      
 }
+
+#header{
+    margin-right: auto;
+    display: flex;
+ } 
 .nav-ul > li > a{
     text-decoration: none;
 }

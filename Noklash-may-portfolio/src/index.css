@@ -1,2 +1,11 @@
+#body{
+    background-color: black;
+    color: white;
+    font-family: 'Fraunces', serif;
+    
+}
 
+.hero{
+    margin:4rem;
+}
 
