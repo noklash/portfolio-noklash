@@ -11,6 +11,7 @@ export default function Hero(){
             <div>
               <img src={webdev} width="200px" ></img>
             </div>
+            
         </div>
     )
 }

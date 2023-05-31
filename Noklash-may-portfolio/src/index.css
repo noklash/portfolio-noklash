@@ -1,6 +1,6 @@
 #body{
-    background-color: black;
-    color: white;
+    /* background-color: black; */
+    /* color: white; */
     font-family: 'Fraunces', serif;
     
 }
@@ -9,3 +9,9 @@
     margin:4rem;
 }
 
+
+@media(min-width: 550px) {
+  #head {
+    margin-right:auto
+  }
+}
